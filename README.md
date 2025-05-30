@@ -1,1 +1,1 @@
-https://github.com/bedimcode/responsive-portfolio-website-Prasanna.git
+git clone git@github.com:your-username/developerFolio.git
